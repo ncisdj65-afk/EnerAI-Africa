@@ -1,0 +1,13 @@
+-BEGIN HEADER-
+NASA/POWER Source Native Resolution Daily Data 
+Dates (month/day/year): 06/02/2026 through 06/02/2026 in LST
+Location: latitude  15.38   longitude 18.67 
+elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 323.25 meters
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
+parameter(s): 
+T2M           MERRA-2 Temperature at 2 Meters (C) 
+WS10M_MAX     MERRA-2 Wind Speed at 10 Meters Maximum (m/s) 
+ALLSKY_KT     CERES SYN1deg All Sky Insolation Clearness Index (dimensionless) 
+-END HEADER-
+YEAR,MO,DY,T2M,WS10M_MAX,ALLSKY_KT
+2026,6,2,-999.0,-999.0,-999.0
