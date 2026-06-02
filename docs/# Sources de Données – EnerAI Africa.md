@@ -10,18 +10,14 @@ Ce document recense l'ensemble des jeux de données utilisés dans le projet Ene
 
 ## Source
 
-Nom du dataset : _______________________
+Nom du dataset : Household Data
 
-Lien : _______________________
+Lien : https://data.open-power-system-data.org/household_data/latest/
 
-Fournisseur : _______________________
+Fournisseur : Open Power System Data
 
-Format :
+Format :  CSV
 
-* [ ] CSV
-* [ ] XLSX
-* [ ] JSON
-* [ ] API
 
 Variables disponibles :
 
