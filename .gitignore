@@ -7,3 +7,4 @@ firmware/esp32_wifi_sender/arduino_secrets.h
 
 # Large ML models kept locally, not pushed to GitHub
 models/*.pkl
+*.zip

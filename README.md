@@ -1,9 +1,3 @@
-## English Summary
-
-EnerAI-Africa is an AI and IoT prototype for smart energy forecasting and solar-aware load management in African contexts. The system combines electricity consumption forecasting, weather and solar data, and real-time ESP32 sensor measurements. A local FastAPI server receives IoT data and uses a hybrid AI-IoT decision engine to determine whether a simulated non-critical load should be switched ON or OFF.
-
-The physical prototype, called EnerAI-Box, uses an ESP32, a DHT11 sensor, an LDR light sensor, and a GPIO25 LED representing a controllable load. The LED turns ON or OFF according to the decision returned by the Python API.
-
 # EnerAI-Africa
 
 ## Présentation du projet
