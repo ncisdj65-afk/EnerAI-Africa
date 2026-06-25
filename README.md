@@ -1,3 +1,9 @@
+## Demonstration Video
+
+A final demonstration video of the EnerAI-Africa prototype is available here:
+
+[Watch the EnerAI-Africa demo](assets/demo/EnerAI_Africa_FINAL_Narcisse_DJAINANTE.mp4)
+
 # EnerAI-Africa
 
 ## Présentation du projet
