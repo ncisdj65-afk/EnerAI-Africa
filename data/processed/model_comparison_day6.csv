@@ -1,0 +1,3 @@
+model,features,validation,MAE,RMSE,R2
+RandomForest Jour 5,"hour, dayofweek, month, lag_1, lag_24, rolling_24",score suspect / risque de fuite d'information,0.26110659621442767,,0.999999975475413
+RandomForest v1 Jour 6,"hour, dayofweek, month, lag_1, lag_24, rolling_24, solar_irradiance",split temporel 80/20,576.7928298213145,677.8191659563411,-2.6248000239932967
